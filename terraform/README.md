@@ -11,3 +11,5 @@
 Игнорирование файла в корне проекта .terraformrc
 
 Игнорирование файла с окончанием *_override.tf, *_override.tf.json
+
+New line!!! 
